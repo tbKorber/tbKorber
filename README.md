@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor Brendan Körber</h1>
 <h3 align="center">A passionate programmer and game designer from Singapore</h3>
 
-- 🔭 I’m currently working on **a secret project for work**
+- 🔭 I’m studying at **Murdoch University**
 
 - 📫 How to reach me **trevor@koerber.org**
 
